@@ -149,8 +149,8 @@ The credentials below are available at the time the notebook is validated.
 """
 
 # Set these variables to None and you will be prompted to enter your username and password below.
-asf_username = 'iksham29'
-asf_password = 'Nowshera987@'
+asf_username = None
+asf_password = None
 
 # Set these variables to None and you will be prompted to enter your username and password below.
 asf = ASF(asf_username, asf_password)
